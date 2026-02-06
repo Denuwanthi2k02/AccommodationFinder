@@ -26,14 +26,8 @@ We analyze the performance of sorting algorithms based on:
 The following sorting algorithms are compared:  
 - 🚀 Quick Sort  
 - 🔷 Merge Sort  
-- 🔶 Bubble Sort  
-
-## 👥 Contributors  
-
-- 🧑‍💻 **Chathurdha S.D.H** (EG/2022/4977)  
-- 👩‍💻 **Darshika S.W.D** (EG/2022/4981)  
-- 🧑‍💻 **Denuwanthi P.G.D** (EG/2022/4990)  
-
+- 🔶 Bubble Sort
+- 
 ## 📌 How to Use  
 
 1️⃣ **Search** – Enter preferred criteria like distance, rent, and facilities.  
